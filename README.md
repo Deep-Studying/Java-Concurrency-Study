@@ -34,7 +34,7 @@
       <td>2주차</td>
       <td>24.10.07 - 24.10.11</td>
       <td>섹션 3 전체</td>
-      <td>김형민</td>
+      <td>서민재</td>
     </tr>
     <tr>
       <td>3주차</td>
@@ -52,7 +52,7 @@
       <td>5주차</td>
       <td>24.10.28 - 24.11.01</td>
       <td>섹션 5 [Thread Local] ~ 섹션 6 [Critical Section] 까지</td>
-      <td>서민재</td>
+      <td>김형민</td>
     </tr>
     <tr>
       <td>6주차</td>
